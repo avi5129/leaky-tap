@@ -1,0 +1,7 @@
+{
+  "_note": "Average grams of CO2 per kWh of electricity. Yearly averages, not live. Users can override with gridGramsPerKWh in config.json.",
+  "WORLD": { "name": "World average", "g": 473, "year": 2024, "source": "Ember, Global Electricity Review 2025", "url": "https://ember-energy.org/latest-insights/global-electricity-review-2025/global-electricity-trends/", "licence": "CC BY 4.0, credit Ember" },
+  "EU":    { "name": "European Union", "g": 213, "year": 2024, "source": "Ember, European Electricity Review 2025", "url": "https://ember-energy.org/latest-insights/european-electricity-review-2025/five-years-of-progress/", "licence": "CC BY 4.0, credit Ember" },
+  "US":    { "name": "United States", "g": 384, "year": 2024, "source": "Ember, US Electricity 2025 (another Ember report gives 361)", "url": "https://ember-energy.org/latest-insights/us-electricity-2025-special-report/insight-4-rising-demand-pushes-up-emissions-slight/", "licence": "CC BY 4.0, credit Ember" },
+  "IN":    { "name": "India", "g": 790, "year": 2020, "source": "Central Electricity Authority CO2 Baseline Database, FY2019-20 weighted average (OLD figure; newer data exists)", "url": "https://cea.nic.in/wp-content/uploads/2020/07/user_guide_ver15.pdf", "licence": "Government of India publication" }
+}

@@ -1,0 +1,7 @@
+{
+  "_note": "Lifetime carbon footprint of example laptops from manufacturers' own product reports. Leaky Tap's default (160 kg) is an ASSUMPTION near these figures; replace it with your own model's report if your maker publishes one (search: '<brand> <model> product carbon footprint').",
+  "examples": [
+    { "name": "Apple 13-inch MacBook Air (M1, 2020)", "kgCO2e": 161, "manufacturingShare": 0.76, "useShare": 0.15, "source": "https://Apple.com/environment/pdf/products/notebooks/13-inch_MacBookAir_PER_Nov2020.pdf" },
+    { "name": "Dell Latitude 7350 Detachable (2024)", "kgCO2e": 110, "manufacturingShare": 0.766, "useShare": 0.159, "source": "https://www.delltechnologies.com/asset/zh-tw/products/laptops-and-2-in-1s/technical-support/latitude-7350-detachable-pcf-report.pdf" }
+  ]
+}

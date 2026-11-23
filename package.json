@@ -1,0 +1,11 @@
+{
+  "name": "leaky-tap",
+  "version": "0.1.0",
+  "description": "See and cut your laptop's energy and carbon footprint. Local-only, no admin, no dependencies.",
+  "license": "MPL-2.0",
+  "bin": { "leakytap": "bin/leakytap.js" },
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "os": ["win32"],
+  "dependencies": {}
+}
